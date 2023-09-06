@@ -19,6 +19,10 @@ margin-top: 2rem;
     background-color: rgba(0, 0, 0, 0.1);
 }
 
+.footer{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
 textarea{
     resize: none;
 }

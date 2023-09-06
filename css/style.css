@@ -27,6 +27,9 @@ textarea{
     resize: none;
 }
 
+
+/* Media Query  */
+
 @media screen and (max-width: 450.98px) {
     .banner {
         height: 95vh;

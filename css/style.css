@@ -7,11 +7,17 @@
     height: 95vh;
 }
 
-
+.icon-size{
+    font-size: 18rem;
+}
 
 @media screen and (max-width: 450.98px) {
     .banner {
         height: 95vh;
+    }
+
+    .icon-size{
+        font-size: 12rem;
     }
 }
 
@@ -39,6 +45,10 @@
 @media screen and (min-width: 992px) and (max-width: 1199.98px) {
     .banner {
         height: 95vh;
+    }
+
+    .icon-size{
+        font-size: 15rem;
     }
 }
 

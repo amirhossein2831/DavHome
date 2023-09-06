@@ -26,19 +26,6 @@ this a Home page of Dove that is powered by Bootsrap and it is totally responsiv
     <td><img src="./resource/readmeImage/L5.png" alt="Welcome Page"></td>
     <td><img src="./resource/readmeImage/L6.png" alt="Welcome Page"></td>
 </tr>
-</table>
-<table>
-<tr>
-    <td><img src="./resource/readmeImage/L1.png" alt="Welcome Page"></td>
-    <td><img src="./resource/readmeImage/L2.png" alt="Welcome Page"></td>
-    <td><img src="./resource/readmeImage/L3.png" alt="Welcome Page"></td>
-</tr>
-<tr>
-    <td><img src="./resource/readmeImage/L4.png" alt="Welcome Page"></td>
-    <td><img src="./resource/readmeImage/L5.png" alt="Welcome Page"></td>
-    <td><img src="./resource/readmeImage/L6.png" alt="Welcome Page"></td>
-</tr>
- </table>
 
 ## Mid
 
@@ -94,5 +81,4 @@ this a Home page of Dove that is powered by Bootsrap and it is totally responsiv
     <li>Css</li>
     <li>Js</li>
     <li>Bootstrap</li>
-    <li>blade template</li>
 </ul>

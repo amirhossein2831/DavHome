@@ -1,8 +1,4 @@
-@font-face{
-    font-family: yekan;
-    src : url("../fonts/iranyekanwebbold.ttf")
-}
-
 *{
-    font-family: yekan;
+    font-family: 'Rubik', sans-serif;
+    direction: rtl;
 }

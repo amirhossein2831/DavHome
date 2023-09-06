@@ -26,6 +26,7 @@ this a Home page of Dove that is powered by Bootsrap and it is totally responsiv
     <td><img src="./resource/readmeImage/L5.png" alt="Welcome Page"></td>
     <td><img src="./resource/readmeImage/L6.png" alt="Welcome Page"></td>
 </tr>
+</table>
 
 ## Mid
 
